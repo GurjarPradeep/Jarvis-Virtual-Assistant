@@ -41,12 +41,6 @@ print(commands.values())
 reminders = []
 
 def change_command(command):
-    # speak("Which command do you want to change?")
-    # with sr.Microphone() as source:
-    #     recognizer.adjust_for_ambient_noise(source)
-    #     audio = recognizer.listen(source)
-    #     print("listening for command")
-    #     old_command = recognizer.recognize_google(audio).lower()
     for key, phrases in commands.items():
         for phrase in phrases:
             if command.startswith(phrase):
@@ -265,7 +259,6 @@ def execute_command(command):
 
     # News updates
     elif any(command.startswith(phrase) for phrase in commands["news"]):
-        print("insde if else news")
         get_news(command)
 
     # Personal Greeting
@@ -281,10 +274,10 @@ def execute_command(command):
     elif command in ["exit", "stop"]:
         speak("Goodbye Have a great day.")
         exit()
-    else: pass
-        # response = ai_process(command)
-        # print(response)
-        # speak(response)
+    else: 
+        response = ai_process(command)
+        print(response)
+        speak(response)
 
 if __name__ == "__main__":
     personalized_greeting()
