@@ -1,0 +1,46 @@
+{
+    "search": [
+        "search for",
+        "search",
+        "what's the meaning of",
+        "who is",
+        "how to",
+        "tell me about"
+    ],
+    "weather": [
+        "what's the weather like",
+        "weather report"
+    ],
+    "news": [
+        "latest news",
+        "news update",
+        "news"
+    ],
+    "reminder": [
+        "set a reminder",
+        "remind me",
+        "can you remind me about"
+    ],
+    "get_reminder": [
+        "what are my reminders",
+        "show reminders"
+    ],
+    "greet": [
+        "say hello",
+        "introduce yourself"
+    ],
+    "calculate": [
+        "what's",
+        "calculate"
+    ],
+    "open": [
+        "open"
+    ],
+    "play": [
+        "youtube",
+        "play"
+    ],
+    "command": [
+        "change command"
+    ]
+}
