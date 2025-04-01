@@ -54,16 +54,14 @@ python jarvis.py
 ## **📌 Customization**  
 Users can **modify predefined command phrases** through voice input, making the assistant truly personalized.  
 
-## **🛠️ Future Enhancements**  
-📌 **Integration with OpenAI API** for conversational AI  
+## **🛠️ Future Enhancements**   
 📌 **Smart Home Automation** for controlling IoT devices  
-📌 **More AI Features** like sentiment analysis and context-aware responses  
-
-## **📜 License**  
-This project is for **educational purposes** and is licensed under **MIT License**.  
+📌 **More AI Features** like sentiment analysis and context-aware responses   
 
 ## **💡 Author & Credits**  
 📌 **Developed by:** Pradeep Singh Gurjar  
-📌 **GitHub:** (https://github.com/GurjarPradeep)  
+📌 **GitHub:** https://github.com/GurjarPradeep
+📌 **LinkedIn:** www.linkedin.com/in/pradeepgurjar
+
 
 ---
