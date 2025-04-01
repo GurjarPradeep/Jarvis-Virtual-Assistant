@@ -60,7 +60,7 @@ Users can **modify predefined command phrases** through voice input, making the 
 
 ## **💡 Author & Credits**  
 📌 **Developed by:** Pradeep Singh Gurjar  
-📌 **GitHub:** https://github.com/GurjarPradeep
+📌 **GitHub:** https://github.com/GurjarPradeep   
 📌 **LinkedIn:** www.linkedin.com/in/pradeepgurjar
 
 
